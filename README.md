@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b> (github repo URL HERE)
+- <b>Active Directory Home Lab</b> (https://github.com/vonagle/ActiveDirectoryLab/tree/main)
 
 <h2>✔ Certifications</h2>
 
