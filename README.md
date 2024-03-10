@@ -15,8 +15,7 @@
 [<img align="left" alt="YvonnePeters | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/CyberCasquatch.png" alt="TryHackMe">][TryHackme]
 
-
-[linkedin]: www.linkedin.com/in/yvonnepeters0
+[linkedin]: https://www.linkedin.com/in/yvonnepeters0/
 [TryHackMe]: https://tryhackme.com/p/CyberCasquatch
 <!--
 **vonagle/vonagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
