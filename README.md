@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b> (https://github.com/vonagle/ActiveDirectoryLab/tree/main)
+- <b>[Active Directory Home Lab](https://github.com/vonagle/ActiveDirectoryLab/tree/main)</b> 
 
 <h2>✔ Certifications</h2>
 
-- ISC2 - CC (URL HERE)
-- CompTIA Network+ (URL HERE)
+- [ISC2 - CC](https://www.credly.com/badges/7481f459-16cb-4b9b-bcdb-a78e4e266bff)
+- [CompTIA Network+](https://www.credly.com/badges/0a185e99-c6cd-4599-ad49-0fbe803001d1)
 - 
 
 <h2> 🤳 Connect with me:</h2>
