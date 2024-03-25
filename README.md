@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/vonagle/ActiveDirectoryLab/tree/main)</b> 
-- <b>[Keylogger created in C#](DROP LINK HERE)</b>
-- <b>[Azure Sentinal SIEM](DROP LINK HERE)</b>
+- <b>[THM - SOC Analyst 1 Learning Path](https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/README.md)</b>
 - <b>[Nessus Vulnerability Management](https://github.com/vonagle/NessusVulnerabilityManagement.git)</b>
+- <b>COMING SOON - [Azure Sentinal SIEM](DROP LINK HERE)</b>
 
 <h2>✔ Certifications</h2>
 
