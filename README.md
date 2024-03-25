@@ -5,13 +5,13 @@
 - <b>[Active Directory Home Lab](https://github.com/vonagle/ActiveDirectoryLab/blob/main/README.md)</b> 
 - <b>[THM - SOC Analyst 1 Learning Path](https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/README.md)</b>
 - <b>[Nessus Vulnerability Management](https://github.com/vonagle/NessusVulnerabilityManagement/blob/main/README.md)</b>
-- <b>COMING SOON - [Azure Sentinal SIEM](DROP LINK HERE)</b>
+- <b>COMING SOON - [Azure Sentinal SIEM]</b>
 
 <h2>✔ Certifications</h2>
 
 - [ISC2 - CC](https://www.credly.com/badges/7481f459-16cb-4b9b-bcdb-a78e4e266bff)
 - [CompTIA Network+](https://www.credly.com/badges/0a185e99-c6cd-4599-ad49-0fbe803001d1)
-- 
+
 
 <h2> 🤳 Connect with me:</h2>
 
