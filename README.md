@@ -5,7 +5,7 @@
 - <b>[Active Directory Home Lab](https://github.com/vonagle/ActiveDirectoryLab/blob/main/README.md)</b> 
 - <b>[THM - SOC Analyst 1 Learning Path](https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/README.md)</b>
 - <b>[Nessus Vulnerability Management](https://github.com/vonagle/NessusVulnerabilityManagement/blob/main/README.md)</b>
-- <b>COMING SOON - [Azure Sentinal SIEM]</b>
+- <b>[Azure Sentinal SIEM](https://github.com/vonagle/Azure-Sentinel-Lab/blob/main/README.md)</b>
 
 <h2>✔ Certifications</h2>
 
