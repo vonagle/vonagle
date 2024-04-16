@@ -6,6 +6,7 @@
 - <b>[THM - SOC Analyst 1 Learning Path](https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/README.md)</b>
 - <b>[Nessus Vulnerability Management](https://github.com/vonagle/NessusVulnerabilityManagement/blob/main/README.md)</b>
 - <b>[Azure Sentinal SIEM](https://github.com/vonagle/Azure-Sentinel-Lab/blob/main/README.md)</b>
+- <b>[THM - CI/CD and Build Security Room](https://github.com/vonagle/CI-CD-and-Build-Security-THM-Room/blob/main/README.md)</b>
 
 <h2>✔ Certifications</h2>
 
