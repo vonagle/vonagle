@@ -13,6 +13,10 @@
 - [ISC2 - CC](https://www.credly.com/badges/7481f459-16cb-4b9b-bcdb-a78e4e266bff)
 - [CompTIA Network+](https://www.credly.com/badges/0a185e99-c6cd-4599-ad49-0fbe803001d1)
 
+<h2>🐍 Python Projects</h2>
+
+- <b>[Download File Cleanup](https://github.com/vonagle/Download-File-Cleanup/blob/main/README.md)</b>
+- <b>[Visual Packet Tracer](https://github.com/vonagle/Visual-Packet-Tracer/blob/main/README.md)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
